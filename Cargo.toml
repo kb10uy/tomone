@@ -1,0 +1,12 @@
+[package]
+name = "tomone"
+description = "Compile-time Template Engine"
+version = "0.1.0"
+authors = ["Yū Kobayashi <kb10uy@kb10uy.org>"]
+license = "Apache-2.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies.regex]
+version = "1.3"
